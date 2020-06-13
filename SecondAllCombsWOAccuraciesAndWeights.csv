@@ -1,4 +1,4 @@
-Prediction,Accuracy,Error,Reliability,Accuracy,Privacy,Volitionality,Causes Outcome,Causes Cycle,Causes Disparity,Caused by Group
+Prediction,Accuracy,Error,Reliability,Relevance,Privacy,Volitionality,Causes Outcome,Causes Cycle,Causes Disparity,Caused by Group
 All Domains,0.815670217918,0.000190684180332,,0.90081385814,,,,,,
 All Domains,0.710508474576,0.000236917906239,,,-0.0605877470833,0.0205976359957,0.513895207216,-0.122350467592,-0.261075833002,0.0279776060829
 All Domains,0.745910895884,0.000220146272871,0.399869141124,,,0.0244053348537,0.510591913858,-0.0904794918774,-0.265845605064,0.0137240490282
