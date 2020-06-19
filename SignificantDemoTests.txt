@@ -1,0 +1,17 @@
+Significant tests after Bonferroni correction:
+Rec, Asian vs Caucasian, Criminal History: 2.95698653018e-05
+Rec, Asian vs Caucasian, Social Life: 6.84285979869e-06
+Unem, Asian vs Caucasian, Gender: 3.34996976615e-05
+CPS, Asian vs Caucasian, Parent Demographics: 3.86899584692e-08
+Loan, High School vs Bachelor, Education: 1.77041410825e-05
+Loan, High School vs Graduate, Marital and Family: 1.07186375839e-05
+Loan, High School vs Graduate, Education: 5.11115384229e-07
+Loan, Associate or Diploma vs Graduate, Marital and Family: 3.34153279442e-05
+Loan, Asian vs Caucasian, Age: 1.94965779399e-05
+Loan, Asian vs Caucasian, Gender: 7.83387473095e-12
+Loan, Asian vs Caucasian, Education: 1.77440586225e-08
+Ins, 18-29 vs 40-49, Credit: 2.3093249168e-05
+Ins, 18-29 vs 50-59, Credit: 5.34603097862e-07
+Ins, High School vs Graduate, Education: 3.86096908613e-06
+Ins, Female vs Male, Credit: 2.10375259117e-05
+
